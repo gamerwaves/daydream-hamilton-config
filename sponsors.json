@@ -6,6 +6,22 @@
         "name": "Hack Club",
         "logo": "https://assets.hackclub.com/icon-rounded.svg",
         "link": "https://hackclub.com"
+      },
+      {
+        "name": "This Could Be You",
+        "logo": "https://scrapyard.shayaand.hackclub.app/static/eyes.png",
+        "link": ""
+        
+      }
+    ]
+  },
+  {
+    "tier": "gold",
+    "sponsors": [
+      {
+        "name": "This Could Be You",
+        "logo": "https://scrapyard.shayaand.hackclub.app/static/eyes.png",
+        "link": ""
       }
     ]
   }
