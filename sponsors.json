@@ -6,28 +6,46 @@
         "name": "Hack Club",
         "logo": "https://assets.hackclub.com/icon-rounded.svg",
         "link": "https://hackclub.com"
+      },
+      {
+        "name": "This Could Be You",
+        "logo": "https://assets.hackclub.com/icon-rounded.svg",
+        "link": "https://raw.githubusercontent.com/Kaympe20/daydream-dc-config/refs/heads/main/changeable-assets/Daydream%20DC%20Prospectus.pdf"
       }
     ]
   },
   {
     "tier": "gold",
     "sponsors": [
-      
+      {
+        "name": "This Could Be You",
+        "logo": "https://assets.hackclub.com/icon-rounded.svg",
+        "link": "https://raw.githubusercontent.com/Kaympe20/daydream-dc-config/refs/heads/main/changeable-assets/Daydream%20DC%20Prospectus.pdf"
+      }
     ]
   },
   {
     "tier": "silver",
     "sponsors": [
-      
+      {
+        "name": "This Could Be You",
+        "logo": "https://assets.hackclub.com/icon-rounded.svg",
+        "link": "https://raw.githubusercontent.com/Kaympe20/daydream-dc-config/refs/heads/main/changeable-assets/Daydream%20DC%20Prospectus.pdf"
+      }
     ]
   },
   {
     "tier": "bronze",
     "sponsors": [
       {
-        "name": "Jukebox - Custom Stickers",
+        "name": "Custom Stickers",
         "logo": "https://storage.jukeboxprint.com/s/images/jukebox-logo.svg",
         "link": "https://www.jukeboxprint.com/custom-stickers"
+      },
+      {
+        "name": "This Could Be You",
+        "logo": "https://assets.hackclub.com/icon-rounded.svg",
+        "link": "https://raw.githubusercontent.com/Kaympe20/daydream-dc-config/refs/heads/main/changeable-assets/Daydream%20DC%20Prospectus.pdf"
       }
     ]
   }
