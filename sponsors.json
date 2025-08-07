@@ -24,7 +24,11 @@
   {
     "tier": "bronze",
     "sponsors": [
-      
+      {
+        "name": "Jukebox - Custom Stickers",
+        "logo": "https://storage.jukeboxprint.com/s/images/jukebox-logo.svg",
+        "link": "https://www.jukeboxprint.com/custom-stickers"
+      }
     ]
   }
 ]
