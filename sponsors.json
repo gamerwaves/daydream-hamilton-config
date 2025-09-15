@@ -31,6 +31,11 @@
         "name": "This Could Be You",
         "logo": "https://scrapyard.shayaand.hackclub.app/static/eyes.png",
         "link": "https://raw.githubusercontent.com/Kaympe20/daydream-dc-config/refs/heads/main/changeable-assets/Daydream%20DC%20Prospectus.pdf"
+      },
+      {
+        "name": "Felix Trask",
+        "logo": "https://hc-cdn.hel1.your-objectstorage.com/s/v3/9f80a250ccdc903b340665cb57303f76953927f5_image.png",
+        "link": "https://felixtrask.github.io/portfolio-website/"
       }
     ]
   },
