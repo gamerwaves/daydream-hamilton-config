@@ -8,39 +8,49 @@
         "link": "https://hackclub.com"
       },
       {
-        "name": "This Could Be You",
-        "logo": "https://scrapyard.shayaand.hackclub.app/static/eyes.png",
-        "link": "https://raw.githubusercontent.com/Kaympe20/daydream-dc-config/refs/heads/main/changeable-assets/Daydream%20DC%20Prospectus.pdf"
+        "name": "Saints Studio (Venue)",
+        "logo": "https://b9bf9d4cd0ccd6b2ea99.cdn6.editmysite.com/uploads/b/b9bf9d4cd0ccd6b2ea99e9ccac56e97f5d2b438ab9400241bf69312f51435b38/saints%20studio%20logo%20with%20cream%20background_1744424647.png?width=2400&optimize=medium",
+        "link": "https://www.saintsstudio.ca"
       }
     ]
   },
   {
-    "tier": "gold",
+    "tier": "galaxy",
     "sponsors": [
       {
         "name": "This Could Be You",
         "logo": "https://scrapyard.shayaand.hackclub.app/static/eyes.png",
-        "link": "https://raw.githubusercontent.com/Kaympe20/daydream-dc-config/refs/heads/main/changeable-assets/Daydream%20DC%20Prospectus.pdf"
+        "link": "https://raw.githubusercontent.com/gamerwaves/daydream-hamilton-config/refs/heads/main/Daydream%20Hamilton%20Prospectus.pdf"
+      },
+    ]
+  },
+  {
+    "tier": "star",
+    "sponsors": [
+      {
+        "name": "This Could Be You",
+        "logo": "https://scrapyard.shayaand.hackclub.app/static/eyes.png",
+        "link": "https://raw.githubusercontent.com/gamerwaves/daydream-hamilton-config/refs/heads/main/Daydream%20Hamilton%20Prospectus.pdf"
       }
     ]
   },
   {
-    "tier": "silver",
+    "tier": "moon",
     "sponsors": [
       {
-        "name": "This Could Be You",
-        "logo": "https://scrapyard.shayaand.hackclub.app/static/eyes.png",
-        "link": "https://raw.githubusercontent.com/Kaympe20/daydream-dc-config/refs/heads/main/changeable-assets/Daydream%20DC%20Prospectus.pdf"
+        "name": "Optimist Club of Hamilton",
+        "logo": "https://optimistclubofhamilton.org/data/files/47100_roundrel.png",
+        "link": "https://optimistclubofhamilton.org"
       },
       {
-        "name": "Felix Trask",
-        "logo": "https://hc-cdn.hel1.your-objectstorage.com/s/v3/9f80a250ccdc903b340665cb57303f76953927f5_image.png",
-        "link": "https://felixtrask.github.io/portfolio-website/"
+        "name": "This Could Be You",
+        "logo": "https://scrapyard.shayaand.hackclub.app/static/eyes.png",
+        "link": "https://raw.githubusercontent.com/gamerwaves/daydream-hamilton-config/refs/heads/main/Daydream%20Hamilton%20Prospectus.pdf"
       }
     ]
   },
   {
-    "tier": "bronze",
+    "tier": "cloud",
     "sponsors": [
       {
         "name": "Custom Stickers",
@@ -50,7 +60,7 @@
       {
         "name": "This Could Be You",
         "logo": "https://scrapyard.shayaand.hackclub.app/static/eyes.png",
-        "link": "https://raw.githubusercontent.com/Kaympe20/daydream-dc-config/refs/heads/main/changeable-assets/Daydream%20DC%20Prospectus.pdf"
+        "link": "https://raw.githubusercontent.com/gamerwaves/daydream-hamilton-config/refs/heads/main/Daydream%20Hamilton%20Prospectus.pdf"
       }
     ]
   }
