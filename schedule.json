@@ -15,12 +15,12 @@
 				{ "event": "Workshop 3", "time": "7:30 PM" },
 				{ "event": "Activity 3", "time": "8:30 PM" },
 				{ "event": "Activity 4", "time": "9:30 PM" },
-				{ "event": "Quiet "time"", "time": "10:30 PM" }
+				{ "event": "Quiet time", "time": "10:30 PM" }
 			]
 		},
 		{
-			title: "Sunday, September 28th",
-			items: [
+			"title": "Sunday, September 28th",
+			"items": [
 				{ "event": "Wake Up!", "time": "7:00 AM" },
 				{ "event": "Breakfast", "time": "7:30 AM" },
 				{ "event": "Project Deadline", "time": "10:00 AM" },
