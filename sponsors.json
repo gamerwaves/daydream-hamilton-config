@@ -41,11 +41,6 @@
         "name": "Optimist Club of Hamilton",
         "logo": "https://optimistclubofhamilton.org/data/files/47100_roundrel.png",
         "link": "https://optimistclubofhamilton.org"
-      },
-      {
-        "name": "This Could Be You",
-        "logo": "https://scrapyard.shayaand.hackclub.app/static/eyes.png",
-        "link": "https://raw.githubusercontent.com/gamerwaves/daydream-hamilton-config/refs/heads/main/Daydream%20Hamilton%20Prospectus.pdf"
       }
     ]
   },
@@ -56,11 +51,6 @@
         "name": "Custom Stickers",
         "logo": "https://storage.jukeboxprint.com/s/images/jukebox-logo.svg",
         "link": "https://www.jukeboxprint.com/custom-stickers"
-      },
-      {
-        "name": "This Could Be You",
-        "logo": "https://scrapyard.shayaand.hackclub.app/static/eyes.png",
-        "link": "https://raw.githubusercontent.com/gamerwaves/daydream-hamilton-config/refs/heads/main/Daydream%20Hamilton%20Prospectus.pdf"
       }
     ]
   }
